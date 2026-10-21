@@ -48,4 +48,4 @@ A telecom provider is losing a significant share of its customers, and the reten
 Python, pandas, matplotlib, seaborn, Google Colab
 
 ## Author
-Bijay khadka, MRes AI in Business
+Bijay Khadka, MRes AI in Business | [LinkedIn] (https://www.linkedin.com/in/bijaykhadka-ai)
